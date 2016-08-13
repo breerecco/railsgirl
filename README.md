@@ -1,19 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This weather app has been created in order to allow users to learn about weather.
 
-Things you may want to cover:
 
-* Ruby version
+* Ruby version: ruby 2.3.1p112 (2016-04-26 revision 54768) [x86_64-darwin15]
 
-* System dependencies
+* System dependencies: written in OSX 10.11.4
 
 * Configuration
 
-* Database creation
+* Database creation: Saturday 13th August 2016
 
-* Database initialization
+* Database initialization: Saturday 13th August 2016
 
 * How to run the test suite
 
